@@ -1,0 +1,10 @@
+{
+  "name": "Remix Airfare Index India",
+  "description": "India\u0027s real-time airfare price index, flight search, route analytics, airline directory, 5km nearby hotel \u0026 restaurant discovery, and smart budget travel planner.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
